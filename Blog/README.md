@@ -20,6 +20,7 @@
     * g为generate缩写，命令效果一致。
 5. <b>hexo d</b>：自动生成网站静态文件，并部署到设定的仓库。
     * d为deploy缩写，命令效果一致。
+    * 部署失败尝试：npm install hexo-deployer-git --save
 6. <b>hexo s</b>：启动本地服务器，用于预览主题。
     * 默认地址：http://localhost:4000/，端口占用时hexo s -p 5000进入http://localhost:5000/
     * 预览时可修改内容，保存后刷新即可。
