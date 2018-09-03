@@ -26,8 +26,8 @@ tags:
 <i class="fa fa-check-square-o"></i> `jsk30990` **An Olympian Math Problem**：打表找规律
 <i class="fa fa-square-o"></i> `jsk30991` **The writing on the wall**：单调栈
 <i class="fa fa-check-square-o"></i> `jsk30992` **GDY**：模拟最烦了嘤嘤嘤
-<i class="fa fa-square-o"></i> `jsk30993` Jerome's House
-<i class="fa fa-square-o"></i> `jsk30994` **AC Challenge**：爆搜，可行性剪枝
+<i class="fa fa-square-o"></i> `jsk30993` **Jerome's House**：又是计算几何
+<i class="fa fa-check-square-o"></i> `jsk30994` **AC Challenge**：爆搜，dfs最优性剪枝或bfs（最远）
 <i class="fa fa-square-o"></i> `jsk30995` **An Easy Problem On The Trees**：
 <i class="fa fa-check-square-o"></i> `jsk30996` **Lpl and Energy-saving Lamps**：线段树维护最小值
 <i class="fa fa-square-o"></i> `jsk30997` **Set**：数据结构
