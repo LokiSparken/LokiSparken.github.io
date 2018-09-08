@@ -8,7 +8,7 @@ tags:
 ---
 # **2018队赛训练记录**
 <!--more-->
-### **现场赛训练一（0827）：2011成都现场赛**
+### **现场赛训练一（0827）：2011ICPC成都现场赛**
 <i class="fa fa-square-o"></i> `hdu4111` <b>Alice and Bob</b>：dp，记忆化搜索
 <i class="fa fa-check-square-o"></i> `hdu4112` <b>Break the Chocolate</b>：签到，要想清楚啊qaq
 <i class="fa fa-square-o"></i> `hdu4113` 
@@ -20,7 +20,7 @@ tags:
 <i class="fa fa-square-o"></i> `hdu4119` <b>Isabella's Message</b>：小模拟
 <i class="fa fa-square-o"></i> `hdu4120` 
 <!-- <a href="http:// /" target="_blank"> </a> -->
-### **网络赛训练一（0828）：2015沈阳网络赛**
+### **网络赛训练一（0828）：2015ICPC沈阳网络赛**
 <i class="fa fa-square-o"></i> `hdu5450` <b>Traversal</b>：状压dp
 <i class="fa fa-square-o"></i> `hdu5451` Best Solver：广义斐波那契数列，循环节
 <i class="fa fa-check-square-o"></i> `hdu5452` <b>Minimum Cut</b>：线段树或树链剖分树上差分
@@ -35,7 +35,7 @@ tags:
 <i class="fa fa-check-square-o"></i> `hdu5461` <b>Largest Point</b>：式子求极值，拆成两个函数再讨论一下即可
 <i class="fa fa-square-o"></i> `hdu5462` <b>Manors</b>：半平面交
 
-### **现场赛训练二（0829）：2015北京现场赛**
+### **现场赛训练二（0829）：2015ICPC北京现场赛**
 <i class="fa fa-check-square-o"></i> `UVALive7261` <b>Xiongnu's Land</b>：差分，前缀和
 <i class="fa fa-square-o"></i> `UVALive7262`
 <i class="fa fa-check-square-o"></i> `UVALive7263` <b>Today Is a Rainy Day</b>：bfs预处理映射，dp
@@ -47,3 +47,29 @@ tags:
 <i class="fa fa-square-o"></i> `UVALive7269` <b>Snake Carpet</b>：构造
 <i class="fa fa-check-square-o"></i> `UVALive7270` <b>Osu! Master</b>：签到到了呀
 <i class="fa fa-square-o"></i> `HihoCoder1259` <b>A Math Problem</b>：数学，数位dp  
+
+### **现场赛训练三（0912）：**
+<!-- <i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> `` -->
+
+### **现场赛训练四（0919）：**
+<!-- <i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> ``
+<i class="fa fa-square-o"></i> `` -->
