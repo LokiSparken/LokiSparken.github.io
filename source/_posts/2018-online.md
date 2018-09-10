@@ -49,17 +49,17 @@ tags:
 <i class="fa fa-check-square-o"></i> `jsk31452` **Supreme Number**：签到
 
 ### **2018.09.09 ICPC徐州站**
-<!-- <i class="fa fa-square-o"></i> ``
-<i class="fa fa-square-o"></i> ``
-<i class="fa fa-square-o"></i> ``
-<i class="fa fa-square-o"></i> ``
-<i class="fa fa-square-o"></i> ``
-<i class="fa fa-square-o"></i> ``
-<i class="fa fa-square-o"></i> ``
-<i class="fa fa-square-o"></i> ``
-<i class="fa fa-square-o"></i> ``
-<i class="fa fa-square-o"></i> ``
-<i class="fa fa-square-o"></i> `` -->
+<i class="fa fa-square-o"></i> `jsk31453` **Hard to prepare**：类似方格涂三色的dp或O(1)公式，注意审题
+<i class="fa fa-square-o"></i> `jsk31454` **BE, GE or NE**：记忆化搜或倒dp
+<i class="fa fa-square-o"></i> `jsk31455` **Cacti Lottery**：爆搜算期望
+<i class="fa fa-square-o"></i> `jsk31456` Easy Math：杜教筛
+<i class="fa fa-square-o"></i> `jsk31457` End Fantasy VIX：
+<i class="fa fa-check-square-o"></i> `jsk31458` **Features Track**：签到，记点东西扫一遍
+<i class="fa fa-check-square-o"></i> `jsk31459` **Trace**：思维维护矩阵右上角的点，倒过来加入矩形使得没有消失线条
+<i class="fa fa-square-o"></i> `jsk31460` **Ryuji doesn't want to study**：
+<i class="fa fa-square-o"></i> `jsk31461` **Characters with Hash**：签到水水水模拟
+<i class="fa fa-check-square-o"></i> `jsk31462` **Maze Designer**：最大生成树上两点距离
+<i class="fa fa-square-o"></i> `jsk31463` **Morgana Net**：矩阵快速幂
 
 ### **2018.09.15 ICPC焦作站**
 <!-- <i class="fa fa-square-o"></i> ``
