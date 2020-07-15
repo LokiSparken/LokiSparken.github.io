@@ -16,7 +16,7 @@
 
   <!-- 页面元数据 -->
   
-  <title>tags - </title>
+  <title>tags - sparken&#39;s blog</title>
   
 
   
@@ -47,6 +47,15 @@
 
   
 
+  
+  <link rel="stylesheet" href="/fa-brands/css/fa-brands.min.css">
+  <link rel="stylesheet" href="/fa-regular/css/fa-regular.min.css">
+  <link rel="stylesheet" href="/fa-solid/css/fa-solid.min.css">
+  <link rel="stylesheet" href="/fontawesome/css/fontawesome.min.css">
+  <link rel="stylesheet" href="/fontawesome-all/css/fontawesome-all.css">
+  <link href="https://use.fontawesome.com/releases/v5.0.4/css/all.css" rel="stylesheet">
+
+
   <!-- import link -->
   
 
@@ -62,6 +71,17 @@
 </head>
 
 <body>
+  <!-- <canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas> 
+  <script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script> 
+  <script type="text/javascript" src="/js/fireworks.js"></script> -->
+
+  <!-- 小烟花 -->
+  <canvas width="1777" height="841" style="position: fixed; left: 0px; top: 0px; z-index: 2147483647; pointer-events: none;"></canvas><script src="https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@3.0.8/js/maodian.js"></script>
+
+  <!-- 数字雨 -->
+  <canvas id="canvas" width="1440" height="900" ></canvas>
+  <script type="text/javascript" src="/js/DigitalRain.js"></script>
+
   
   
   
@@ -71,10 +91,10 @@
   <div class='a'>
     
     
-      <p class="title">Volantis</p>
+      <p class="title">Sparken's blog</p>
     
     
-      <p class="subtitle">A Wonderful Theme for Hexo</p>
+      <p class="subtitle">沉醉不知归路。</p>
     
   </div>
   <div class='b'>
@@ -92,55 +112,51 @@
           
             <li>
               <a class="nav home"
-                href="https://volantis.js.org/getting-started/"
+                href="/"
                 
                 
-                id="https:volantisjsorggetting-started">
-                <i class='fas fa-book fa-fw'></i>文档
+                id="home">
+                <i class='fas fa-book fa-fw'></i>文章
               </a>
             </li>
           
             <li>
               <a class="nav home"
-                href="https://volantis.js.org/archives/"
+                href="/categories/"
                 
                 
-                id="https:volantisjsorgarchives">
-                <i class='fas fa-rss fa-fw'></i>博文
+                id="categories">
+                <i class='fas fa-folder-open fa-fw'></i>分类
               </a>
             </li>
           
             <li>
               <a class="nav home"
-                href="https://volantis.js.org/examples/"
+                href="/tags/"
                 
                 
-                id="https:volantisjsorgexamples">
-                <i class='fas fa-play-circle fa-fw'></i>示例
+                id="tags">
+                <i class='fas fa-tags fa-fw'></i>标签
               </a>
             </li>
           
             <li>
               <a class="nav home"
-                href="https://github.com/volantis-x/hexo-theme-volantis/"
-                
-                  rel="external nofollow noopener noreferrer"
+                href="/archives/"
                 
                 
-                  target="_blank"
-                
-                id="https:githubcomvolantis-xhexo-theme-volantis">
-                <i class='fas fa-file-code fa-fw'></i>源码
+                id="archives">
+                <i class='fas fa-archive fa-fw'></i>归档
               </a>
             </li>
           
             <li>
               <a class="nav home"
-                href="https://volantis.js.org/contributors/"
+                href="/friends/"
                 
                 
-                id="https:volantisjsorgcontributors">
-                <i class='fas fa-handshake fa-fw'></i>鸣谢
+                id="friends">
+                <i class='fas fa-link fa-fw'></i>友链
               </a>
             </li>
           
@@ -171,7 +187,7 @@
           
           
           
-            Volantis
+            Sparken's blog
           
         </a>
       
@@ -190,7 +206,7 @@
                   
                     id="home"
                   >
-                  <i class='fas fa-rss fa-fw'></i>博客
+                  <i class='fas fa-book fa-fw'></i>文章
                 </a>
                 
               </li>
@@ -255,22 +271,6 @@
                     id="friends"
                   >
                   <i class='fas fa-link fa-fw'></i>友链
-                </a>
-                
-              </li>
-            
-          
-          
-            
-            
-              <li>
-                <a class="flat-box" href=/about/
-                  
-                  
-                  
-                    id="about"
-                  >
-                  <i class='fas fa-info-circle fa-fw'></i>关于
                 </a>
                 
               </li>
@@ -304,7 +304,7 @@
                   
                     id="home"
                   >
-                  <i class='fas fa-rss fa-fw'></i>博客
+                  <i class='fas fa-book fa-fw'></i>文章
                 </a>
                 
               </li>
@@ -369,22 +369,6 @@
                     id="friends"
                   >
                   <i class='fas fa-link fa-fw'></i>友链
-                </a>
-                
-              </li>
-            
-          
-            
-              
-            
-              <li>
-                <a class="flat-box" href=/about/
-                  
-                  
-                  
-                    id="about"
-                  >
-                  <i class='fas fa-info-circle fa-fw'></i>关于
                 </a>
                 
               </li>
@@ -478,8 +462,8 @@
               
 <div class='new-meta-item author'>
   <a href="https://xaoxuu.com" target="_blank" rel="nofollow noopener">
-    <img no-lazy src="https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png">
-    <p>Mr. X</p>
+    <img no-lazy src="https://s1.ax1x.com/2020/07/16/U0Wqsg.jpg">
+    <p>Sparken</p>
   </a>
 </div>
 
@@ -493,7 +477,7 @@
             
               <div class="new-meta-item date">
   <a class='notlink'>
-    <i class="fas fa-calendar-alt fa-fw" aria-hidden="true"></i>
+    <i class="fas fa-clock fa-fw" aria-hidden="true"></i>
     <p>发布于：2018年9月1日</p>
   </a>
 </div>
@@ -605,15 +589,7 @@
         <div class="social-wrapper">
           
             
-              <a href="/atom.xml"
-                class="social fas fa-rss flat-btn"
-                target="_blank"
-                rel="external nofollow noopener noreferrer">
-              </a>
-            
-          
-            
-              <a href="mailto:me@xaoxuu.com"
+              <a href="mailto:gsparken@gmail.com"
                 class="social fas fa-envelope flat-btn"
                 target="_blank"
                 rel="external nofollow noopener noreferrer">
@@ -621,7 +597,7 @@
             
           
             
-              <a href="https://github.com/xaoxuu"
+              <a href="https://github.com/LokiSparken"
                 class="social fab fa-github flat-btn"
                 target="_blank"
                 rel="external nofollow noopener noreferrer">
@@ -629,7 +605,7 @@
             
           
             
-              <a href="https://music.163.com/#/user/home?id=63035382"
+              <a href="https://music.163.com/#/playlist?id=152261"
                 class="social fas fa-headphones-alt flat-btn"
                 target="_blank"
                 rel="external nofollow noopener noreferrer">
@@ -640,26 +616,30 @@
       
     
       
-        <div><p>博客内容遵循 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener">署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 协议</a></p>
-</div>
-      
-    
-      
-        本站使用
-        <a href="https://volantis.js.org/" target="_blank" class="codename">Volantis</a>
-        作为主题，总访问量为
-          <span id="busuanzi_value_site_pv"><i class="fas fa-circle-notch fa-spin fa-fw" aria-hidden="true"></i></span>
-          次
-        
-      
-    
-      
         <div class='copyright'>
-        <p><a href="https://xaoxuu.com/" target="_blank" rel="noopener">Copyright © 2017-2020 Mr. X</a></p>
+        <p>Copyright © <script>document.write(new Date().getFullYear())</script> Sparken</p>
 
         </div>
       
     
+
+    <span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
+    <script>
+        var now = new Date(); 
+        function createtime() { 
+            var grt= new Date("07/16/2020 00:00:00");//在此处修改你的建站时间，格式：月/日/年 时:分:秒
+            now.setTime(now.getTime()+250); 
+            days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days); 
+            hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours); 
+            if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum); 
+            mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;} 
+            seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum); 
+            snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;} 
+            document.getElementById("timeDate").innerHTML = "本站已运行 "+dnum+" 天 "; 
+            document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒"; 
+        } 
+    setInterval("createtime()",250);
+    </script>
   </footer>
 
 
@@ -694,7 +674,7 @@
 
     <script type="text/javascript">
       $(function(){
-        var imgs=["https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/41F215B9-261F-48B4-80B5-4E86E165259E.jpeg"];
+        var imgs=["https://s1.ax1x.com/2020/07/16/U04exK.jpg"];
         if ('true' == 'true') {
           function shuffle(arr){
             /*From countercurrent-time*/
