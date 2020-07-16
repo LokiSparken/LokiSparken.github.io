@@ -13,7 +13,7 @@ window.onload = function(){
     canvas.width = W;
     canvas.height = H;
     //每个文字的字体大小
-    var fontSize = 12;
+    var fontSize = 8;
     //计算列
     var colunms = Math.floor(W /fontSize);	
     //记录每列文字的y轴坐标
@@ -23,7 +23,7 @@ window.onload = function(){
         drops.push(0);
     }
     //运动的文字
-    var str ="WELCOME TO WWW.ITRHX.COM";
+    var str ="|ᴗ<*)ฅ Thx for coming! My road to Atlantis. Hope u enjoy~ ";
     //4:fillText(str,x,y);原理就是去更改y的坐标位置
     //绘画的函数
     function draw(){
