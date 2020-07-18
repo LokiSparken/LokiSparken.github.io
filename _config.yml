@@ -10,7 +10,7 @@ keywords:
 author: Sparken
 language: zh-CN
 timezone:
-favicon: https://s1.ax1x.com/2020/07/16/U0TlOf.png
+favicon: https://cdn.jsdelivr.net/gh/LokiSparken/CDN-for-blog@1.0/images/favicon-kitty-circle.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
