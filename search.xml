@@ -1,27 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[【UE4】Pixel Streaming]]></title>
-    <url>%2F2020%2F07%2F16%2F%E3%80%90UE4%E3%80%91Pixel-Streaming%2F</url>
-    <content type="text"><![CDATA[像素流送]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>【UE4】Pixel Streaming</title>
+      <link href="/2020/07/16/%E3%80%90UE4%E3%80%91Pixel-Streaming/"/>
+      <url>/2020/07/16/%E3%80%90UE4%E3%80%91Pixel-Streaming/</url>
+      
+        <content type="html"><![CDATA[<h1 id="像素流送"><a href="#像素流送" class="headerlink" title="像素流送"></a>像素流送</h1>]]></content>
+      
+      
       <categories>
-        <category>Unreal Engine</category>
-        <category>Pixel Streaming</category>
+          
+          <category> Unreal Engine </category>
+          
+          <category> Pixel Streaming </category>
+          
       </categories>
-      <tags>
-        <tag>UE4</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[又是测试喵]]></title>
-    <url>%2F2020%2F07%2F16%2FTest%2F</url>
-    <content type="text"><![CDATA[测试 喵喵喵 (ฅ&gt;ω&lt;*ฅ) 略略略]]></content>
+      
+      
+        <tags>
+            
+            <tag> UE4 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>又是测试喵</title>
+      <link href="/2020/07/16/Test/"/>
+      <url>/2020/07/16/Test/</url>
+      
+        <content type="html"><![CDATA[<h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1><ul><li>喵喵喵 (ฅ&gt;ω&lt;*ฅ)</li></ul><p><i class="fa fa-star fa-x fa-spin"></i></p><ul><li>略略略 </li></ul>]]></content>
+      
+      
       <categories>
-        <category>Configurations</category>
-        <category>Hexo</category>
+          
+          <category> Configurations </category>
+          
+          <category> Hexo </category>
+          
       </categories>
-      <tags>
-        <tag>configuration</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> configuration </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
