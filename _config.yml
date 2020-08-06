@@ -12,9 +12,11 @@ language: zh-CN
 timezone:
 favicon: https://cdn.jsdelivr.net/gh/LokiSparken/CDN-for-blog@1.0/images/favicon-kitty-circle.png
 
+use_cdn: true
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://LokiSparken.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -25,6 +27,7 @@ public_dir: public
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
+friend_dir: friends
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:

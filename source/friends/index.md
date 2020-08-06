@@ -1,23 +1,21 @@
 ---
 layout: links
 title: 链接
+type: friends
+sidebar: [blogger, category, tagcloud, qrcode]
 links:
   - group: 
     icon: fas fa-star
     desc:
     items:
-    - name: sparken                                          # *
-      avatar: https://s1.ax1x.com/2020/07/16/U0Wqsg.jpg      # *
-      url: lokisparken.github.io                             # *
+    - name: sparken
+      avatar: https://cdn.jsdelivr.net/gh/LokiSparken/CDN-for-blog@1.0/images/kitty.png
+      url: https://lokisparken.github.io
       backgroundColor: 
       textColor: 
       tags: 
-      desc: 
+      desc: 形成自环w
 ---
 
-然鹅弱鸡并妹有友链昂（
-
 <!-- more -->
-
-still test
 

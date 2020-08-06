@@ -1,0 +1,27 @@
+- name: 文章
+  icon: fas fa-book
+  url: /
+- name: 分类
+  icon: fas fa-folder-open
+  url: categories/
+  rows:
+    - name: Configurations
+      url: categories/Configurations/
+    - name: hr
+    - name: Computer Graphics
+      url: categories/
+    - name: DirectX 12
+      url: categories/
+    - name: hr
+    - name: Unreal Engine
+      url: categories/Unreal-Engine/
+      
+- name: 标签
+  icon: fas fa-tags
+  url: tags/
+- name: 归档
+  icon: fas fa-archive
+  url: archives/
+- name: 链接
+  icon: fas fa-link
+  url: friends/
