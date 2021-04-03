@@ -11,7 +11,7 @@ tags:
 
 # 测试
 
-* 喵喵喵 (ฅ>ω<*ฅ)
+* 喵喵喵 ฅ
 
 <i class="fa fa-star fa-x fa-spin"></i>
 
